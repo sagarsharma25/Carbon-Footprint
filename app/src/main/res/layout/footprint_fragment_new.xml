@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/sea2">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/residential"
+            android:layout_marginBottom="20dp"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/question1"
+            android:textColor="#fff"/>
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:background="@drawable/text"
+            android:ems="10"
+            android:textColorHint="#fff"
+            android:textColor="#fefefe"
+            android:inputType="phone"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/question2"
+            android:textColor="#fff"/>
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:background="@drawable/text"
+            android:ems="10"
+            android:textColorHint="#fff"
+            android:textColor="#fefefe"
+            android:inputType="phone"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/question3"
+            android:textColor="#fff"/>
+        <EditText
+            android:id="@+id/editText3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:background="@drawable/text"
+            android:ems="10"
+            android:textColorHint="#fff"
+            android:textColor="#fefefe"
+            android:inputType="phone"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/question4"
+            android:textColor="#fff"/>
+        <EditText
+            android:id="@+id/editText4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:background="@drawable/text"
+            android:ems="10"
+            android:textColorHint="#fff"
+            android:textColor="#fefefe"
+            android:inputType="phone"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/question5"
+            android:textColor="#fff"/>
+        <EditText
+            android:id="@+id/editText5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:background="@drawable/text"
+            android:ems="10"
+            android:textColorHint="#fff"
+            android:textColor="#fefefe"
+            android:inputType="phone"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/question6"
+            android:textColor="#fff"/>
+        <EditText
+            android:id="@+id/editText6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:background="@drawable/text"
+            android:ems="10"
+            android:textColorHint="#fff"
+            android:textColor="#fefefe"
+            android:inputType="phone"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/question7"
+            android:textColor="#fff"/>
+        <EditText
+            android:id="@+id/editText7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:background="@drawable/text"
+            android:ems="10"
+            android:textColorHint="#fff"
+            android:textColor="#fefefe"
+            android:inputType="phone"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/question8"
+            android:textColor="#fff"/>
+        <EditText
+            android:id="@+id/editText8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:background="@drawable/text"
+            android:ems="10"
+            android:textColorHint="#fff"
+            android:textColor="#fefefe"
+            android:inputType="phone"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/question9"
+            android:textColor="#fff"/>
+        <EditText
+            android:id="@+id/editText9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:background="@drawable/text"
+            android:ems="10"
+            android:textColorHint="#fff"
+            android:textColor="#fefefe"
+            android:inputType="phone"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/question10"
+            android:textColor="#fff"/>
+        <EditText
+            android:id="@+id/editText10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:background="@drawable/text"
+            android:ems="10"
+            android:textColorHint="#fff"
+            android:textColor="#fefefe"
+            android:inputType="phone"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/business"
+            android:layout_marginBottom="20dp"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="#fff"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/question11"
+            android:textColor="#fff"
+            />
+        <EditText
+            android:id="@+id/editText11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:background="@drawable/text"
+            android:ems="10"
+            android:textColorHint="#fff"
+            android:textColor="#fefefe"
+            android:inputType="phone"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/question12"
+            android:textColor="#fff"
+            />
+        <EditText
+            android:id="@+id/editText12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:background="@drawable/text"
+            android:ems="10"
+            android:textColorHint="#fff"
+            android:textColor="#fefefe"
+            android:inputType="phone"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/question13"
+            android:textColor="#fff"
+            />
+        <EditText
+            android:id="@+id/editText13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:background="@drawable/text"
+            android:ems="10"
+            android:textColorHint="#fff"
+            android:textColor="#fefefe"
+            android:inputType="phone"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+
+            />
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/calculate"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:text="@string/calculate"
+        android:textSize="16dp"
+        android:textColor="#fff"
+        android:textAlignment="center"
+        android:background="@drawable/border"
+        android:layout_gravity="center"
+        android:letterSpacing="0.025"
+        android:padding="10dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="15dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/help"
+        android:id="@+id/help"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:layout_marginLeft="80dp"
+        android:layout_marginBottom="50dp"
+        android:textSize="20dp"/>
+
+
+</LinearLayout>
+</ScrollView>

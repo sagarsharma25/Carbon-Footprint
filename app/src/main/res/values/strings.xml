@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Carbon Footprint</string>
+    <string name="textView">Select an activity:</string>
+    <string name="button">Calculate</string>
+    <string name="textView4">%1$s</string>
+    <string name="textView3">%1$s</string>
+    <string name="empty"></string>
+    <string name="showResult">%1$d</string>
+    <string name="status">%1$s</string>
+
+    <string-array name="activities">
+        <item></item>
+        <item>Driving</item>
+        <item>Bus</item>
+        <item>Subway or train</item>
+        <item>Flight</item>
+        <item>Electricity use</item>
+        <item>Eating beef, pork, or lamb</item>
+        <item>Eating fruits or vegetables</item>
+    </string-array>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_photos">Footprint Calculator</string>
+    <string name="nav_movies">Graphical Analysis</string>
+    <string name="nav_notifications">Rate Us</string>
+    <string name="nav_settings">Settings</string>
+    <string name="other">Other</string>
+    <string name="nav_about_us">About Us</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Calculate your Footprint</item>
+        <item>Graphical Analysis</item>
+        <item>Rate Us</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+
+    <string-array name="Languages">
+        <item>Choose your Language</item>
+        <item>English</item>
+        <item>हिंदी</item>
+        <item>తెలుగు</item>
+        <item>ગુજરાતી</item>
+        <item>मराठी</item>
+        <item>മലയാളം</item>
+        <item>தமிழ்</item>
+    </string-array>
+
+
+    <string name="footprint_daily">\t\t\tFootprint Daily</string>
+    <string name="footprint_weekly">\t\t\tFootprint Weekly</string>
+    <string name="footprint_region">\t\t\tFootprint Regionwise</string>
+    <string name="day1">Sun</string>
+    <string name="day2">Mon</string>
+    <string name="day3">Tue</string>
+    <string name="day4">Wed</string>
+    <string name="day5">Thu</string>
+    <string name="day6">Fri</string>
+    <string name="day7">Sat</string>
+
+    <string name="SelectSize">Select your language</string>
+    <string name="Challange">Challenge your score</string>
+
+    <string name="residential">Residential</string>
+    <string name="question1">1.How much Electricity(per Kwh) do you consume daily?</string>
+    <string name="question2">2.How much LPG(per Kwh) do you consume daily?</string>
+    <string name="question3">3.How much do you travel(per mile) using Public services? </string>
+    <string name="question4">4.How much do you travel(per gallon) using Personal Vehicle?</string>
+    <string name="question5">5.How much Wood/Coal(per Kwh) do you consume daily?</string>
+    <string name="question6">6.How much Heating oil(per gallon) do you consume daily?</string>
+    <string name="question7">7.How much do you travel(per mile) using Rail annualy?</string>
+    <string name="question8">8.How much do you travel(per mile) using Airplane annualy?</string>
+    <string name="question9">9.How much meal(per kg) do you consume per day?</string>
+    <string name="question10">10.Number of night stays in Hotel?</string>
+    <string name="business">Business</string>
+    <string name="question11">11.How much natural gas(per Kwh) is used in the workplace?</string>
+    <string name="question12">12.How much Electricity(per Kwh) is used in the workplace?</string>
+    <string name="question13">13.How much Heating oil(per gallon) is used in the workplace?</string>
+
+    <string name="calculate">Calculate</string>
+    <string name="help">Help in units?</string>
+
+
+</resources>

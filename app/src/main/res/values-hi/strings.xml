@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">कार्बन पदचिह्न</string>
+    <string name="textView">कोई गतिविधि चुनें:</string>
+    <string name="button">गणना करें</string>
+    <string name="textView4">%1$s</string>
+    <string name="textView3">%1$s</string>
+    <string name="empty"></string>
+    <string name="showResult">%1$d</string>
+    <string name="status">%1$s</string>
+
+    <string-array name="activities">
+        <item></item>
+        <item>ड्राइविंग</item>
+        <item>बस</item>
+        <item>सबवे या ट्रेन</item>
+        <item>उड़ान</item>
+        <item>विद्युत उपयोग</item>
+        <item>गाय का मांस, सूअर का मांस, या मेमने का मांस खाने</item>
+        <item>फल या सब्जियां खाने</item>
+    </string-array>
+
+
+    <string name="navigation_drawer_open">नेविगेशन ड्रॉवर खोलें</string>
+    <string name="navigation_drawer_close">नेविगेशन ड्रॉवर को बंद करें</string>
+    <string name="openDrawer">खुले दराज</string>
+    <string name="closeDrawer">बंद दराज</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">घर</string>
+    <string name="nav_photos">पदचिह्न कैलकुलेटर</string>
+    <string name="nav_movies">ग्राफिकल विश्लेषण</string>
+    <string name="nav_notifications">हमें रेटिंग दें</string>
+    <string name="other">अन्य</string>
+    <string name="nav_settings">पतिस्थिति</string>
+    <string name="nav_about_us">हमारे बारे में</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>कार्बन पदचिह्न</item>
+        <item>पदचिह्न कैलकुलेटर</item>
+        <item>ग्राफिकल विश्लेषण</item>
+        <item>हमें रेटिंग दे</item>
+        <item>पतिस्थिति</item>
+    </string-array>
+
+    <string name="activity_title_about_us">हमारे बारे में</string>
+    <string name="activity_title_privacy_policy">गोपनीयता नीति</string>
+    <string name="action_clear_all">सभी साफ करेंl</string>
+    <string name="action_logout">लोग आउट</string>
+    <string name="action_mark_all_read">सभी को पढ़ा हुआ मार्क करें</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+
+    <string name="footprint_daily">\t\t\tपदचिह्न दैनिक</string>
+    <string name="footprint_weekly">\t\t\tपदचिह्न साप्ताहिक</string>
+    <string name="footprint_region">\t\t\tपदचिह्न क्षेत्रीय रूप से</string>
+    <string name="day1">रवि</string>
+    <string name="day2">सोम</string>
+    <string name="day3">मंगल</string>
+    <string name="day4">बुध</string>
+    <string name="day5">गुरू</string>
+    <string name="day6">शुक्र</string>
+    <string name="day7">शनि</string>
+
+    <string name="Challange">अपने स्कोर को चुनौती दें</string>
+    <string name="SelectSize">अपनी भाषा का चयन करें</string>
+
+
+    <string name="residential">आवासीय</string>
+    <string name="question1">1.आप कितने बिजली (प्रति किलो) दैनिक का उपभोग करते हैं?</string>
+    <string name="question2">2.आप कितने एलपीजी (प्रति किलो) दैनिक का उपभोग करते हैं?</string>
+    <string name="question3">3.क्या आप सार्वजनिक सेवाओं का उपयोग करते हुए (प्रति मील) यात्रा करते हैं?</string>
+    <string name="question4">4.निजी वाहन का उपयोग करते हुए आप कितना यात्रा करते हैं?</string>
+    <string name="question5">5.कितने लकड़ी / कोयला (प्रति किलो) आप दैनिक उपभोग करते हैं?</string>
+    <string name="question6">6.कितना ताप तेल (प्रति गैलन) आप दैनिक उपभोग करते हैं?</string>
+    <string name="question7">7.रेल का उपयोग करके आप कितना यात्रा करते हैं (प्रति मील)?</string>
+    <string name="question8">8.हवाई जहाज का उपयोग करके आप कितने यात्रा करते हैं (प्रति मील)?</string>
+    <string name="question9">9.आप प्रति दिन कितना भोजन (प्रति किलो) खाते हैं?</string>
+    <string name="question10">10.कितनी रात आप एक होटल में खर्च  करते हैं?</string>
+    <string name="business">व्यापार</string>
+    <string name="question11">11.कार्यस्थल में कितना प्राकृतिक गैस (प्रति किलो) का उपयोग किया जाता है?</string>
+    <string name="question12">12.कार्यस्थल में कितना बिजली (प्रति किलो) का उपयोग किया जाता है?</string>
+    <string name="question13">13.कार्यस्थल में कितना हीटिंग तेल (गैलन प्रति) का उपयोग किया जाता है?</string>
+
+    <string name="calculate">गणना करें</string>
+    <string name="help">इकाइयों में सहायता?</string>
+
+</resources>
